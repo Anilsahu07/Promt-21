@@ -1,6 +1,6 @@
 @media (max-width:550px) {
     .container{
-        padding: 20px 25px;
+        padding: 20px 20px;
     }
 
     .box2{
@@ -27,7 +27,7 @@
     }
 
     .para h1{
-        font-size: 5vw;
+        font-size: 6vw;
         line-height: 6vw;
     }
 
