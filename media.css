@@ -1,0 +1,77 @@
+@media (max-width:550px) {
+    .box2{
+        flex-direction: column;
+    }
+
+    .box2{
+        gap: 30px;
+    }
+    .price1{
+        width: 100%;
+    }
+
+    .box1 .para{
+        width: 100%;
+        text-align: center;
+    }
+
+    .box1 button{
+        width: 100%;
+        padding: 12px 0;
+        font-size: 18px;
+    }
+
+    .para h1{
+        font-size: 5vw;
+        line-height: 6vw;
+    }
+
+    .para{
+        gap: 20px;
+        margin-top: 20px;
+    }
+
+    .para p{
+        font-size: 18px;
+    }
+
+    #alag{
+        padding: 15px 40px;
+        font-size: 18px;
+    }
+
+
+    .price1 button{
+        padding: 14px 30px;
+        font-size: 16px;
+        margin-top: 30px;
+    }
+
+    #middle{
+        padding: 14px 40px;
+        font-size: 18px;
+    }
+
+     .button h4{
+        font-size: 5vw;
+    }
+
+    .rate h1{
+        font-size: 7vw;
+    }
+
+    .rate p{
+        font-size:20px;
+    }
+
+    .footer button{
+        padding: 18px 40px;
+        font-size: 20px;
+        border-radius:50px;
+    }
+
+    .icons{
+        gap: 20px;
+        margin-top: 20px;
+    }
+}
