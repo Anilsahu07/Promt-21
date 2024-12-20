@@ -34,6 +34,7 @@ html, body{
 
 .box1 button:hover{
     background-color: tomato;
+    color: white;
 }
 
 .box1{
